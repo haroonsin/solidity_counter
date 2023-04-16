@@ -1,7 +1,10 @@
-### solidity_counter
+### Solidity Counter Demo
+Simple project to evaluate smart contract development and testing
 
-Simple project to evaliuate smart contract development and testing
-
+#### Pre-Req
+```shell
+npm install; npm --save-dev hardhat
+```
 Try running some of the following tasks:
 
 ```shell
